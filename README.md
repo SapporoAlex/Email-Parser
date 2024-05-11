@@ -47,6 +47,9 @@
 - `email_parser_for_value_build.py` Python script for parsing email.
 - `latest emails.xlsx`: contains tabled data
 
+## Special Acknowledgment
+I would like to Thank Aya McKinley at Value-Build Ltd. for requesting this project.
+
 ## Author
 Alex McKinley
 
